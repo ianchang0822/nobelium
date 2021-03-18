@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
+  title: 'Ian Blog',
+  author: 'Ian',
+  email: '1144028227@qq.com',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
-  lang: 'en-US',
+  description: '产品狗',
+  lang: 'zh',
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // if leave this empty, current year will be used.
   postsPerPage: 7,
